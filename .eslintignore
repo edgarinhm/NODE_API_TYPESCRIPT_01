@@ -1,0 +1,9 @@
+.husky
+.vscode
+coverage
+build
+dist
+documentation
+node_modules
+public
+**/*.js
